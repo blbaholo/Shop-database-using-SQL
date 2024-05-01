@@ -1,0 +1,10 @@
+*
+
+!README.md
+!.gitignore
+!src/
+!docker-compose.yaml
+!src/create-database.sql
+!src/create-tables.sql
+!src/insert-table-records.sql
+!src/query-database.sql
